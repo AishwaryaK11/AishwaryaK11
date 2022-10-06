@@ -26,7 +26,14 @@
 
 <p>I am Aishwarya Kamble, currently pursuing my B.Tech majoring in Mechanical Engineering from Indian Institute of Technology Guwahati🎓.I am a tech enthusiast and passionate learner. I love to explore things and take up challenging tasks that help me grow my skills and broaden my knowledge.
 <p>
-  
+
+- 🌱 I’m currently learning Web Developement Stuff. <a href="https://reactjs.org/docs/create-a-new-react-app.html"><img style="padding:5px;" align="center" alt="ReactJs" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/> </a>
+
+- 😄 Pronouns: She/Her
+- 👯 I love Art, reading Novels, Chess, Sport, Computer Science Stuff etc.
+<!-- - 💬 Ask me about ... -->
+<!-- - 📫 How to reach me:  -->
+<!-- - ⚡ Fun fact: ... -->
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
